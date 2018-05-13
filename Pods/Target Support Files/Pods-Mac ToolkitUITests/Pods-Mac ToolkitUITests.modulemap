@@ -1,0 +1,6 @@
+framework module Pods_Mac_ToolkitUITests {
+  umbrella header "Pods-Mac ToolkitUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

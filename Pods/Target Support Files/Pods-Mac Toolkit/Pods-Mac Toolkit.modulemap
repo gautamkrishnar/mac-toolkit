@@ -1,0 +1,6 @@
+framework module Pods_Mac_Toolkit {
+  umbrella header "Pods-Mac Toolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
